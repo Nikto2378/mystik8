@@ -1,0 +1,6 @@
+{
+  "name": "GothNeon — Cyber-Gothic E-Commerce",
+  "description": "Subversive cyber-gothic luxury fashion, dark apparel, occult accessories and neon home decor with express delivery in Astana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
